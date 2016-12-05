@@ -1,2 +1,2 @@
 # electron-system
-Abstractions for building modular Electron applications
+Framework for building modular Electron systems
